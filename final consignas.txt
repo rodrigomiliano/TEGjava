@@ -1,0 +1,19 @@
+Presentacion de un tp, grupal (3 como máximo) el dia del final
+Tema:
+Juego
+
+Contenidos que debe tener:
+- Una estructura de repetición (como mínimo) - en boton "elegir color" (while hasta que elijo *)
+- Arrays
+- Selector - en boton "atacar" (si dado 1 mayor dado 2 luego switch por "pais 2" y case por cada pais) 
+- Condicionales anidados - en boton "atacar" (si pais es tal tira 3 dados, sino 2, sino 1)
+- conectivos lógicos - en boton "atacar" (si dado 1 es mayor a dado 2 y si dado 1 es mayor a dado 4 y si dado 1 es mayor a dado 6)
+- Objetos: 
+- Jframe, 
+- jbutton, 
+- jtextfield, 
+- jlabel
+
+Solo se evaluaran  los temas vistos en clase.
+Se debe presentar el proyecto en un cd y traer en pen drive, debe contener la carpeta de proyecto mas el .jar
+Los alumnos del grupo explicaran el ejercicio y tendrán que responder preguntas de la docente sobre su trabajo
